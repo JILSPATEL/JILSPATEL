@@ -29,7 +29,7 @@
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="40" height="40"/> </a> 
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="matplotlib" width="40" height="40"/> </a> 
     
-   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="pandas" width="40" height="40"/> </a> 
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="jupyter" width="40" height="40"/> </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40"/> </a> 
@@ -46,6 +46,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jilspatel&show_icons=true&locale=en" alt="jilspatel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jilspatel&" alt="jilspatel" /></p>
+
 
 
 
