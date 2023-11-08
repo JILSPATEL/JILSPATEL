@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jils Patel</h1>
 <h3 align="center">I am passionate about technology, particularly in the realm of Python. I am always eager to explore new developments in this area. Additionally, I have a strong interest in object-oriented programming with Java, as well as web development using HTML, CSS, and JavaScript.</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jilspatel&label=Profile%20views&color=0e75b6&style=flat" alt="jilspatel" /> </p>
 
 - 🌱 I’m currently learning **Data Science And AI/ML**
 
