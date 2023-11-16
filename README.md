@@ -22,7 +22,9 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css3" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="html5" width="40" height="40"/> </a> 
+     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+                src="https://icon.icepanel.io/Technology/svg/HTML5.svg"
+                alt="html5" width="40" height="40" /> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="40" height="40"/> </a> 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" width="40" height="40"/> </a> 
