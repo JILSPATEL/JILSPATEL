@@ -16,14 +16,14 @@
     <a href="https://www.linkedin.com/in/jilspatel29765048/" target="blank">
         <img align="center" src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="https://www.linkedin.com/in/jilspatel29765048/" height="30" width="40" />
     </a>
+    <a href="https://leetcode.com/Jils_Patel/" target="blank">
+        <img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="https://leetcode.com/" height="30" width="40" />
+    </a>
     <a href="https://www.geeksforgeeks.org/user/jils180e33q/" target="blank">
         <img align="center" src="https://img.icons8.com/color/512/GeeksforGeeks.png" alt="https://www.geeksforgeeks.org/user/jils180e33q/" height="30" width="40" />
     </a>
     <a href="https://www.hackerrank.com/dashboard" target="blank">
         <img align="center" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" alt="https://www.hackerrank.com/dashboard" height="30" width="40" />
-    </a>
-    <a href="https://leetcode.com/Jils_Patel/" target="blank">
-        <img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="https://leetcode.com/" height="30" width="40" />
     </a>
 </p>
 
