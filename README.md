@@ -35,15 +35,18 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="c" width="40" height="40"/>
     </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="html5" width="40" height="40"/>
+    </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="css3" width="40" height="40"/>
+    </a> 
+    <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="html5" width="40" height="40"/>
-    </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="40" height="40"/>
     </a> 
