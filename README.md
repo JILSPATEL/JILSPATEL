@@ -23,7 +23,7 @@
         <img align="center" src="https://img.icons8.com/color/512/GeeksforGeeks.png" alt="https://www.geeksforgeeks.org/user/jils180e33q/" height="30" width="40" />
     </a>
     <a href="https://www.codechef.com/users/jils_18" target="blank">
-        <img align="center" src="https://cdn.brandfetch.io/idM2-b7Taf/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="https://www.codechef.com/users/jils_18" height="30" width="40" />
+        <img align="center" src="https://cdn.brandfetch.io/idM2-b7Taf/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="https://www.codechef.com/users/jils_18" height="30" width="40" />
     </a>
     <a href="https://www.hackerrank.com/dashboard" target="blank">
         <img align="center" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" alt="https://www.hackerrank.com/dashboard" height="30" width="40" />
