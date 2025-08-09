@@ -117,4 +117,5 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
 <h3 align="center">🏆 LeetCode Stats</h3>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Jils_Patel?theme=light&font=monospace&border_radius=20&bg=transparent&ext=heatmap" alt="LeetCode Heatmap" />
+  <img src="https://gfgstatscard.vercel.app/jils180e33q?theme=light" alt="GFG Stats" />
 </p>
