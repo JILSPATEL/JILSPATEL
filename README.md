@@ -106,9 +106,9 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jilspatel&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<!-- <p align="center">
+ <p align="center">
   <img src="https://streak-stats.demolab.com?user=jilspatel&theme=dark" alt="GitHub Streak" />
-</p> -->
+</p> 
 
 
 
