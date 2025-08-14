@@ -4,7 +4,7 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jilspatel&label=Profile%20views&color=0e75b6&style=flat" alt="jilspatel" />
+  <img src="https://komarev.com/ghpvc/?username=jilspatel&label=Profile%20views&color=0e75b6&style=flat" alt="jilspatel"/>
 </p>
 
 - 🌱 I’m currently Pursuing **M.Tech Computer Science & Engineering From IIIT Bangalore**
