@@ -101,8 +101,13 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jilspatel&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jilspatel&show_icons=true&locale=en&layout=compact&theme=light&hide=Jupyter%20Notebook" 
+    alt="Most Used Languages" 
+  />
 </p>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jilspatel&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
