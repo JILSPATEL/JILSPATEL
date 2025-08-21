@@ -15,7 +15,7 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
 
 ---
 
-<h3 align="left">📫 Connect with me:</h3>
+<h3 align="left">🌐 Socials:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/jilspatel29765048/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -98,7 +98,7 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
   </a>
 </p>
 -->
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">💻Tech Stack:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
