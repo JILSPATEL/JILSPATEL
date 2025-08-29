@@ -29,7 +29,7 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
   <a href="https://www.codechef.com/users/jils_18" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/dashboard" target="_blank">
+  <a href="https://www.hackerrank.com/profile/Jils_Patel" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
