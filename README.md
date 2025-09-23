@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jils Patel</h1>
 <h3 align="center">
-A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy diving deep into data science tools and love solving real-world problems through code. Currently exploring opportunities in Data Science and Software Development Engineering (SDE).
+A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy diving deep into data science tools and love solving real-world problems through code. Currently exploring opportunities in Software Development Engineering (SDE) and Data Science .
 </h3>
 
 <p align="center">
