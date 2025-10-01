@@ -34,7 +34,7 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
   </a>
 
   <a href="https://www.kaggle.com/jilspatel18" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+      <img alt="Static Badge" src="https://img.shields.io/badge/kaggle">
   </a>
 </p>
 
