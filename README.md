@@ -134,7 +134,7 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jilspatel&show_icons=true&locale=en&layout=compact&theme=light&hide=Jupyter%20Notebook" 
-    alt="Most Used Languages" 
+    alt="Most Used Languages"
   />
   <!-- <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jilspatel&show_icons=true&locale=en&layout=compact&theme=light" 
