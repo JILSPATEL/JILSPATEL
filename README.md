@@ -40,7 +40,7 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -67,9 +67,9 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
 
 <div align="center">
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jilspatel&show_icons=true&locale=en&layout=compact&theme=light&hide=Jupyter%20Notebook)
+  ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=jilspatel&show_icons=true&locale=en&layout=compact&theme=light&hide=Jupyter%20Notebook)
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jilspatel&show_icons=true&locale=en&theme=light)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jilspatel&show_icons=true&locale=en&theme=light)
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=jilspatel&theme=light)
   
@@ -85,7 +85,7 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Jils_Patel?theme=light&font=Baloo%202&ext=heatmap)
   
   ### GeeksForGeeks Stats
-  [![GFG Stats](https://gfgstatscard.vercel.app/jils180e33q)](https://www.geeksforgeeks.org/user/jils180e33q/)
+  ![GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=jils180e33q)
   
 </div>
 
