@@ -11,7 +11,7 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
 
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/JILSPATEL?tab=repositories)
 
-- 💬 Ask me about **Computer Science, Data Science and Programming**
+- 💬 Ask me about **Computer Science, Data Science and Programming**.
 
 ---
 
