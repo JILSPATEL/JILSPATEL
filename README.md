@@ -71,7 +71,7 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
   
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jilspatel&show_icons=true&locale=en&theme=light)
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=jilspatel&theme=light)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=jilspatel&theme=dark)
   
 </div>
 
