@@ -67,9 +67,9 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
 
 <div align="center">
   
-  ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=jilspatel&show_icons=true&locale=en&layout=compact&theme=light&hide=Jupyter%20Notebook)
+  ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=jilspatel&show_icons=true&locale=en&layout=compact&theme=dark&hide=Jupyter%20Notebook)
   
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jilspatel&show_icons=true&locale=en&theme=light)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jilspatel&show_icons=true&locale=en&theme=dark)
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=jilspatel&theme=dark)
   
@@ -82,10 +82,11 @@ A technology enthusiast with a strong passion for Python, Java, and C++. I enjoy
 <div align="center">
   
   ### LeetCode Stats
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Jils_Patel?theme=light&font=Baloo%202&ext=heatmap)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Jils_Patel?theme=dark&font=Baloo%202&ext=heatmap)
   
   ### GeeksForGeeks Stats
-  ![GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=jils180e33q)
+  ![GeeksForGeeks stats](https://gfgstatscard.vercel.app/jils180e33q)
+  <!--![GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=jils180e33q)-->
   
 </div>
 
